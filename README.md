@@ -1,4 +1,4 @@
-# **Bank Marketing Logistic Regression Analysis**
+# **Bank Marketing Logistic Regression & Profit Analysis**
 
 **Objective:** Predict whether a customer will subscribe to a term deposit based on data from a Portuguese bank's marketing campaign, to improve targeting strategies and maximize profit.
 
