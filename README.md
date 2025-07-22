@@ -9,6 +9,8 @@
 - Interpret model results using odds ratios and statistical significance (p-values)
 - Evaluate model performance using F1-score, precision-recall curve, and learning curve
 - Determine profit-maximizing threshold and generate actionable business insights
+- Estimate profit at different targeting levels to inform campaign scope
+- Scale expected profit to align with business objectives
 - Recommend a tiered outreach strategy based on predicted probabilities
 
 **Tools Used:** 
